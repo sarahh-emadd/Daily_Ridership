@@ -115,3 +115,9 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 
 **“Post-Pandemic Ridership Trends and Forecasting for MTA Transit Modes.”**
 
+
+---
+
+## Our presentaion
+[📂 MTA Daily Ridership Presentation](https://www.canva.com/design/DAGmSeguEIo/SNOXkPJCTElD2xpWjoUMwQ/edit)
+
