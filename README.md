@@ -145,6 +145,7 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 ---
 
 ## Links
-**Our presentaion**: [📂 MTA Daily Ridership Presentation](https://www.canva.com/design/DAGmSeguEIo/SNOXkPJCTElD2xpWjoUMwQ/edit)␣␣
-**PowerBI DashBoard**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/outputs/PowerBIdashboard.pdf)
+- **Our presentation**: [📂 MTA Daily Ridership Presentation](https://www.canva.com/design/DAGmSeguEIo/SNOXkPJCTElD2xpWjoUMwQ/edit)
+- **PowerBI Dashboard**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/outputs/PowerBIdashboard.pdf)
+
 
