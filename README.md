@@ -129,9 +129,8 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 
 | Recommendations                                |
 |---------------------------------------|
-|**1- Resource Allocation**:Increase service where recovery is strongest (e.g., subways on weekdays), reduce frequency for underused services.
-|
-| **2- Targeted Marketing**: Promote LIRR or Metro-North through pricing or service incentives to stimulate slower-recovering ridership.|
+|**1- Resource Allocation**:Increase service where recovery is strongest (e.g., subways on weekdays), reduce frequency for underused services.|
+|**2- Targeted Marketing**: Promote LIRR or Metro-North through pricing or service incentives to stimulate slower-recovering ridership.|
 |**3- Policy Interventions**: Consider flexible schedules or hybrid work policies to distribute peak demand more evenly. |
 |**4- Forecast-Driven Planning**: Identification of overall rising or falling ridership trends post-2020. Important for capacity planning and infrastructure investments. |
 
