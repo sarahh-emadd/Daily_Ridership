@@ -115,16 +115,13 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 
 | Metric                                |
 |---------------------------------------|
-|1- Post-COVID Recovery
-Some transportation modes (e.g., subway or bus) likely recovered faster than others like LIRR or Metro-North.
-Normalized plots probably show Subway rebounding sooner due to higher dependence in urban areas.
-       |
-| Peak Ridership Hours Identified       |
-| Peak Ridership Hours Identified       |
-| Peak Ridership Hours Identified       |
-| Peak Ridership Hours Identified       |
-| Peak Ridership Hours Identified       |
-| Peak Ridership Hours Identified       |
+|**1- Post-COVID Recovery**: Some transportation modes (e.g., subway or bus) likely recovered faster than others like LIRR or Metro-North. Normalized plots probably show Subway rebounding sooner due to higher dependencein urban areas.  |
+| **2- Weekend vs Weekday Trends**: Ridership patterns may differ significantly between weekdays and weekends. Recommendations might include adjusting service frequency or staffing based on observed usage. Weekend ridership is lower across all modes. Transit demand is highest on weekdays, suggesting potential for off-peak scheduling savings.|
+|**3- Seasonal or Temporal Trends**: Monthly or yearly breakdowns could reveal seasonal drops (e.g., holidays) or long-term recovery trends |
+|**4- Total Ridership Trends**: Identification of overall rising or falling ridership trends post-2020. Important for capacity planning and infrastructure investments. |
+|**5- Forecasting**: If ARIMA was applied to total_ridership, the model may project future demand, helping in planning service levels.       |
+|**6- Mode Recovery Trends**: From normalized ridership trends: Subways and buses likely showed faster recovery post-COVID. Commuter rails (LIRR, Metro-North) lagged—likely due to ongoing hybrid/remote work reducing daily suburban commutes.|
+|**7- Total Ridership Rebound**: Total ridership shows a gradual upward trend, which is a strong signal of recovery. Fluctuations may align with seasonal patterns or COVID variant surges. |
 
 ---
 
