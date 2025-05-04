@@ -26,7 +26,8 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 - Explore factors affecting transit usage  
 
 **Data Source**: MTA Open Data (aggregated from MetroCard/OMNY tap-ins and automated counters)  
-**Data File**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/data/MTA_Daily_Ridership.csv)
+- **Data File**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/data/MTA_Daily_Ridership.csv)
+-  **Data Dictionary**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/data/MTA_data_dictionary.csv)
 
 
 ---
