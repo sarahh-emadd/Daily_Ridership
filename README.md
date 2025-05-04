@@ -111,6 +111,23 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 
 ---
 
+## 👥 Stakeholder Analysis
+
+| Metric                                |
+|---------------------------------------|
+|1- Post-COVID Recovery
+Some transportation modes (e.g., subway or bus) likely recovered faster than others like LIRR or Metro-North.
+Normalized plots probably show Subway rebounding sooner due to higher dependence in urban areas.
+       |
+| Peak Ridership Hours Identified       |
+| Peak Ridership Hours Identified       |
+| Peak Ridership Hours Identified       |
+| Peak Ridership Hours Identified       |
+| Peak Ridership Hours Identified       |
+| Peak Ridership Hours Identified       |
+
+---
+
 ## 📌 Project Title
 
 **“Post-Pandemic Ridership Trends and Forecasting for MTA Transit Modes.”**
