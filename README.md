@@ -136,14 +136,44 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 |**4- Forecast-Driven Planning**: Identification of overall rising or falling ridership trends post-2020. Important for capacity planning and infrastructure investments. |
 
 
----
-
-## 📌 Project Title
-
-**“Post-Pandemic Ridership Trends and Forecasting for MTA Transit Modes.”**
-
 
 ---
+
+##  Conclusion
+
+This project provided a comprehensive analysis of MTA daily ridership trends from the onset of the COVID-19 pandemic through the recovery phase. By examining patterns across various transit modes—including subways, buses, LIRR, Metro-North, and paratransit services—we identified how different parts of the transportation system were impacted and how they are rebounding over time.
+
+## Key Takeaways
+
+- Subways and buses experienced the steepest initial drop but also demonstrated the strongest recovery, especially on weekdays.
+
+- Commuter rail services like LIRR and Metro-North have shown slower ridership recovery, indicating potential overcapacity or changes in commuter behavior (e.g., remote work).
+
+- Ridership varies significantly by day of the week and season, with weekdays and fall months seeing higher usage.
+
+- Forecasting models (e.g., ARIMA) suggest that full ridership recovery is ongoing but uneven across modes.
+
+- Cost considerations reveal that buses and subways remain the most cost-effective transit options, whereas commuter rail and paratransit services are more expensive per rider.
+
+## Recommendations
+
+- Prioritize service adjustments and investments in subway and bus systems, where rider recovery is strongest.
+
+- Reevaluate the frequency and scale of commuter rail services to align with changing demand patterns.
+
+- Implement targeted outreach and marketing for underutilized services.
+
+- Use forecasting outputs to guide staffing, budgeting, and maintenance planning.
+
+- Integrate these findings into a dashboard for ongoing monitoring, decision-making, and stakeholder communication.
+
+
+
+
+
+
+---
+
 
 ## Links
 - **Our presentation**: [📂 MTA Daily Ridership Presentation](https://www.canva.com/design/DAGmSeguEIo/SNOXkPJCTElD2xpWjoUMwQ/edit)
