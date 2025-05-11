@@ -80,8 +80,7 @@ This project aims to analyze MTA daily ridership data to identify trends in subw
 - Power BI & Tableau  
 
 **Machine Learning**:
-- Time Series Forecasting using Prophet, ARIMA, or XGBoost  
-
+-Time Series Forecasting using GRU (Gated Recurrent Unit) neural network model
 **Visualization**:
 - Power BI & Tableau dashboards  
 - Python-based visualizations  
