@@ -178,6 +178,7 @@ This project provided a comprehensive analysis of MTA daily ridership trends fro
 ## Links
 - **Our presentation**: [📂 MTA Daily Ridership Presentation](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/Presentation/White%20Red%20Simple%20Modern%20Data%20Analysis%20Presentation.pdf)
 - **PowerBI Dashboard**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/outputs/PowerBIdashboard.pdf)
+- **PowerBI Dashboard**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/outputs/PowerBIdashboard.pdf)
 - **Project Report**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/docs/Project_Report.pdf)
 - **Python NoteBook**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/notebooks/project-mta-depi.ipynb)
 - **Machine Learning NoteBook**: [📂 MTA Daily Ridership Data](https://github.com/sarahh-emadd/Daily_Ridership/blob/main/notebooks/proj-depi-mta-daily.ipynb)
